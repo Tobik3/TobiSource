@@ -13,6 +13,7 @@ error_reporting(E_ALL);
        echo $pid=$row["name"];
        echo '<pre>';
        echo $pid=$row["catalog"];
+       echo "new 1 line";
     }
     //$query = $getProducts ->
 ?>
